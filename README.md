@@ -13,7 +13,7 @@ Noter (Take Notes Easily): is a simple and awesome Note app. You can create colo
 
 ### Technolgies : Android SDK , Kotlin, Xml, MVVM, Room Database, Firebase Analytics.
 
-<p align="center">
+<p style="float:left;">
 <img src="https://play-lh.googleusercontent.com/C-aEu-6oKNEjstWRAnDRQaMFfG0VC4dZhrCk7lPYagu9gd6ft0N61fkZHvacCXkcis8=w2560-h1440-rw" width="250" height = "500"  title="Noter">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   
   <img src="https://play-lh.googleusercontent.com/8Hr0CpSBQbz2avWp-KWe-IiWGG6twBzjWHwX-mYaerNcjCfRz3XNuD7ZxVrQdy98mzfd=w2560-h1440-rw" width="250" height = "500"  title="Noter">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
