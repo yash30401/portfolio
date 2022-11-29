@@ -10,3 +10,9 @@ Noter is a Simple Notes taking app. Easy way to take notes, write ideas, and mor
 Noter (Take Notes Easily): is a simple and awesome Note app. You can create color notes, to do lists, shopping lists.
 
 <a href='https://play.google.com/store/apps/details?id=com.devyash.noter'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
+
+### Technolgies : Android SDK , Kotlin, Xml, MVVM, Room Database, Firebase Analytics.
+
+<p>
+<img src="https://play-lh.googleusercontent.com/C-aEu-6oKNEjstWRAnDRQaMFfG0VC4dZhrCk7lPYagu9gd6ft0N61fkZHvacCXkcis8=w2560-h1440-rw" width="250" height = "500"  title="Noter">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
