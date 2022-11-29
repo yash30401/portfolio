@@ -5,7 +5,8 @@
 
 # Noter
 
-Now enjoy and experience the entire offering of Decathlon India’s 70+ sports and over 5,000 products by using the Decathlon mobile application!
-Choose from an array of gear and equipment that's designed to get you play-ready.
+A simple, note taking experience.
+Noter is a Simple Notes taking app. Easy way to take notes, write ideas, and more. Open it, write down some thoughts, and you're done.
+Noter (Take Notes Easily): is a simple and awesome Note app. You can create color notes, to do lists, shopping lists.
 
 <a href='https://play.google.com/store/apps/details?id=com.devyash.noter'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
