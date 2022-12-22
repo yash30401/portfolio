@@ -20,12 +20,12 @@ Noter (Take Notes Easily): is a simple and awesome Note app. You can create colo
 
   <img align="left" src="https://play-lh.googleusercontent.com/8Hr0CpSBQbz2avWp-KWe-IiWGG6twBzjWHwX-mYaerNcjCfRz3XNuD7ZxVrQdy98mzfd=w2560-h1440-rw" width="250" height = "500"  title="Noter">
  
-   <img align="left" src="https://play-lh.googleusercontent.com/A1ed_O1Ylv-xGLHN0M0DCBcmCIrHUiAymAohbD2pl-p4ZJ6qmCEYLImEhJngX8vMQS4=w2560-h1440-rw" width="250" height = "500"  title="Noter">
+   <img align="left" src="https://play-lh.googleusercontent.com/A1ed_O1Ylv-xGLHN0M0DCBcmCIrHUiAymAohbD2pl-p4ZJ6qmCEYLImEhJngX8vMQS4=w2560-h1440-rw" width="250" height = "500"  title="Noter">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
  </p> 
  
  
- # Noter
+ # Status Saver For Whatsapp
 
 A simple, note taking experience.
 Noter is a Simple Notes taking app. Easy way to take notes, write ideas, and more. Open it, write down some thoughts, and you're done.
