@@ -33,7 +33,7 @@ Status Saver For WhatsApp is an app from which you can download whatsapp Video a
 
 Status Saver for WhatsApp & Status Downloader App, you can easily save videos and images from WhatsApp Status to your Android device. This way, you can enjoy downloaded status photos and status videos anytime, anywhere, or share them with friends, or repost downloaded status to other social medias.
 
-<a href='https://play.google.com/store/apps/details?id=com.devyash.noter'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
+<a href='https://play.google.com/store/apps/details?id=com.statussaverforwhatsapp'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
 
 ### Technolgies : Android SDK , Kotlin, Xml, MediaStore Api, Firebase Analytics.
 
