@@ -27,5 +27,26 @@ Noter (Take Notes Easily): is a simple and awesome Note app. You can create colo
  
  
  # Status Saver For Whatsapp
+ 
+ 
+Status Saver For WhatsApp is an app from which you can download whatsapp Video and Images statuses in just one Click.
+
+Status Saver for WhatsApp & Status Downloader App, you can easily save videos and images from WhatsApp Status to your Android device. This way, you can enjoy downloaded status photos and status videos anytime, anywhere, or share them with friends, or repost downloaded status to other social medias.
+
+<a href='https://play.google.com/store/apps/details?id=com.devyash.noter'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
+
+### Technolgies : Android SDK , Kotlin, Xml, MediaStore Api, Firebase Analytics.
+
+<p align="center">
+<img align="left" src="https://play-lh.googleusercontent.com/htPbxnOlFVxZx8GRyTQ1ezAGwFbC_h3LOEyKEnUCozCBT-tdQbrB24727iXt9gs8Qw=w2560-h1440-rw" width="250" height = "500"  title="Noter">
+</p>
+ 
+<p align="center">
+  <img align="left" src="https://play-lh.googleusercontent.com/U3oFrAqFuti1qiB6_abZDqM3DJ2Enw4Pv26yUesyObqXPIcO9N1ZkErfscoWAmww5Q=w2560-h1440-rw" width="250" height = "500"  title="Noter">
+ </p>
+<p align="center">
+   <img align="center" src="https://play-lh.googleusercontent.com/KQjT_D8DSjFP19c6Ne5f_0kSDuQrCsHLlvyGsvQcdIZfqsFsrXF1ZL14LAFZUfm3Cg=w2560-h1440-rw" width="250" height = "500"  title="Noter">
+
+ </p> 
 
 
