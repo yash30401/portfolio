@@ -50,26 +50,25 @@ Status Saver for WhatsApp & Status Downloader App, you can easily save videos an
  </p> 
  
  
-  # Status Saver For Whatsapp
+  # DailyQuote:Motivational Quotes
  
  
-Status Saver For WhatsApp is an app from which you can download whatsapp Video and Images statuses in just one Click.
+ DailyQuotes is the perfect app for anyone looking for daily motivation and inspiration. With a wide range of motivational quotes and inspirational quotes, convenient saving and sharing features, and the ability to personalize and organize your favorites, it's an essential tool for anyone looking to stay positive and motivated.
+ DailyQuotes is more than just a collection of motivational quotes - it's also a convenient and user-friendly app that makes it easy to save, share, and personalize your favorite quotes. With the ability to 💾 download quote images to your device, you can keep your most beloved words of wisdom with you wherever you go. And with the option to 📲 share quotes with friends and loved ones, you can spread positivity and motivation to others as well.
 
-Status Saver for WhatsApp & Status Downloader App, you can easily save videos and images from WhatsApp Status to your Android device. This way, you can enjoy downloaded status photos and status videos anytime, anywhere, or share them with friends, or repost downloaded status to other social medias.
+<a href='https://play.google.com/store/apps/details?id=com.quotes.motivationalquotes.dailyrandomquotes'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
 
-<a href='https://play.google.com/store/apps/details?id=com.statussaverforwhatsapp'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
-
-### Technolgies : Android SDK , Kotlin, Xml, MediaStore Api, Firebase Analytics.
+### Technolgies : Android SDK , Kotlin, Xml, MediaStore Api, Firebase Analytics, REST API.
 
 <p align="center">
-<img align="left" src="https://play-lh.googleusercontent.com/htPbxnOlFVxZx8GRyTQ1ezAGwFbC_h3LOEyKEnUCozCBT-tdQbrB24727iXt9gs8Qw=w2560-h1440-rw" width="250" height = "500"  title="Noter">
+<img align="left" src="https://play-lh.googleusercontent.com/8PyOIqXPArP8xycMtTzwYJHWafaX_ienT5TAR8xR-WkNWUHa1gBrBz27diJgRByXMwE=w526-h296-rw" width="250" height = "500"  title="Noter">
 </p>
  
 <p align="center">
-  <img align="left" src="https://play-lh.googleusercontent.com/U3oFrAqFuti1qiB6_abZDqM3DJ2Enw4Pv26yUesyObqXPIcO9N1ZkErfscoWAmww5Q=w2560-h1440-rw" width="250" height = "500"  title="Noter">
+  <img align="left" src="https://play-lh.googleusercontent.com/tBAxCsIa1eGsj26SBsEBpnO3O6CRd9j3GSLP9vFLnpt9DiIkYdzbz6ixtNKlXe7BfQQ=w526-h296-rw" width="250" height = "500"  title="Noter">
  </p>
 <p align="center">
-   <img align="center" src="https://play-lh.googleusercontent.com/KQjT_D8DSjFP19c6Ne5f_0kSDuQrCsHLlvyGsvQcdIZfqsFsrXF1ZL14LAFZUfm3Cg=w2560-h1440-rw" width="250" height = "500"  title="Noter">
+   <img align="center" src="https://play-lh.googleusercontent.com/_4e97KNh2Vj3h4BMqH06Co8PTR3sadmw4TWg6iR2u5OpZL7TVuOQKl7iE8LTwj0R2kM=w526-h296-rw" width="250" height = "500"  title="Noter">
 
  </p> 
 
