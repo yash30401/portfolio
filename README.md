@@ -61,14 +61,14 @@ Status Saver for WhatsApp & Status Downloader App, you can easily save videos an
 ### Technolgies : Android SDK , Kotlin, Xml, MediaStore Api, Firebase Analytics, REST API.
 
 <p align="center">
-<img align="left" src="https://play-lh.googleusercontent.com/8PyOIqXPArP8xycMtTzwYJHWafaX_ienT5TAR8xR-WkNWUHa1gBrBz27diJgRByXMwE=w526-h296-rw" width="250" height = "500"  title="Noter">
+<img align="left" src="https://play-lh.googleusercontent.com/8PyOIqXPArP8xycMtTzwYJHWafaX_ienT5TAR8xR-WkNWUHa1gBrBz27diJgRByXMwE=w2560-h1440-rw" width="250" height = "500"  title="Noter">
 </p>
  
 <p align="center">
-  <img align="left" src="https://play-lh.googleusercontent.com/tBAxCsIa1eGsj26SBsEBpnO3O6CRd9j3GSLP9vFLnpt9DiIkYdzbz6ixtNKlXe7BfQQ=w526-h296-rw" width="250" height = "500"  title="Noter">
+  <img align="left" src="https://play-lh.googleusercontent.com/tBAxCsIa1eGsj26SBsEBpnO3O6CRd9j3GSLP9vFLnpt9DiIkYdzbz6ixtNKlXe7BfQQ=w2560-h1440-rw" width="250" height = "500"  title="Noter">
  </p>
 <p align="center">
-   <img align="center" src="https://play-lh.googleusercontent.com/_4e97KNh2Vj3h4BMqH06Co8PTR3sadmw4TWg6iR2u5OpZL7TVuOQKl7iE8LTwj0R2kM=w526-h296-rw" width="250" height = "500"  title="Noter">
+   <img align="center" src="https://play-lh.googleusercontent.com/_4e97KNh2Vj3h4BMqH06Co8PTR3sadmw4TWg6iR2u5OpZL7TVuOQKl7iE8LTwj0R2kM=w2560-h1440-rw" width="250" height = "500"  title="Noter">
 
  </p> 
 
