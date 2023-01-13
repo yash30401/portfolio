@@ -5,9 +5,7 @@
 
 # Sports Tournament
 
-A simple, note taking experience.
-Noter is a Simple Notes taking app. Easy way to take notes, write ideas, and more. Open it, write down some thoughts, and you're done.
-Noter (Take Notes Easily): is a simple and awesome Note app. You can create color notes, to do lists, shopping lists.
+Sports Tournament is a mobile application that allows users to pay a fee to play matches. It was developed using the Android SDK, Kotlin, XML, and MVVM design pattern. The app also integrates Firebase Analytics, Firebase Storage, Firebase Realtime Database, and Payment Integration for added functionality.
 
 <a href='https://play.google.com/store/apps/details?id=com.devyash.noter'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
 
