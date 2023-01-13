@@ -3,6 +3,29 @@
 
 <a href="mailto:yashveersingh30401@gmail.com"><img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/mail.png" alt="Mail" title="Mail" width="40" height="40" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/yash30401/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/linkedin.png" alt="Linked In" title="Linked In" width="40" height="40" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/yash30401/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/instagram.png" alt="Instagram" title="Instagram" width="40" height="40" /></a>
 
+# Sports Tournament
+
+A simple, note taking experience.
+Noter is a Simple Notes taking app. Easy way to take notes, write ideas, and more. Open it, write down some thoughts, and you're done.
+Noter (Take Notes Easily): is a simple and awesome Note app. You can create color notes, to do lists, shopping lists.
+
+<a href='https://play.google.com/store/apps/details?id=com.devyash.noter'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
+
+### Technolgies : Android SDK , Kotlin, Xml, MVVM, Firebase Analytics, Firebase Storage, Firebase Realtime Database, Payment Integration.
+
+<p align="center">
+<img align="left" src="https://drive.google.com/file/d/1hCcCqd3fVtuUDqU9EyWqvgZUfbS4CRV2/view?usp=share_link" width="250" height = "500"  title="Noter">
+</p>
+ 
+<p align="center">
+  <img align="left" src="https://play-lh.googleusercontent.com/8Hr0CpSBQbz2avWp-KWe-IiWGG6twBzjWHwX-mYaerNcjCfRz3XNuD7ZxVrQdy98mzfd=w2560-h1440-rw" width="250" height = "500"  title="Noter">
+ </p>
+<p align="center">
+   <img align="center" src="https://play-lh.googleusercontent.com/A1ed_O1Ylv-xGLHN0M0DCBcmCIrHUiAymAohbD2pl-p4ZJ6qmCEYLImEhJngX8vMQS4=w2560-h1440-rw" width="250" height = "500"  title="Noter">
+
+ </p> 
+
+
 # Noter
 
 A simple, note taking experience.
