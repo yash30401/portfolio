@@ -7,7 +7,7 @@
 
 Sports Tournament is a mobile application that allows users to pay a fee to play matches. It was developed using the Android SDK, Kotlin, XML, and MVVM design pattern. The app also integrates Firebase Analytics, Firebase Storage, Firebase Realtime Database, and Payment Integration for added functionality.
 
-<a href='https://play.google.com/store/apps/details?id=com.devyash.noter'><img alt='Get it on Google Play' src='https://icons8.com/icon/38051/link' height='80px'/></a>
+<a href='https://play.google.com/store/apps/details?id=com.devyash.noter'><img src='https://icons8.com/icon/59826/link' height='80px'/></a>
 
 ### Technolgies : Android SDK , Kotlin, Xml, MVVM, Firebase Analytics, Firebase Storage, Firebase Realtime Database, Payment Integration.
 
