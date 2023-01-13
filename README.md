@@ -12,11 +12,11 @@ Sports Tournament is a mobile application that allows users to pay a fee to play
 ### Technolgies : Android SDK , Kotlin, Xml, MVVM, Firebase Analytics, Firebase Storage, Firebase Realtime Database, Payment Integration.
 
 <p align="center">
- <img align="left" src="https://user-images.githubusercontent.com/46748588/212322595-86d57e07-d1b2-482f-8114-85fbfa4e83f3.png" width="250" height = "500" >
+ <img align="center" src="https://user-images.githubusercontent.com/46748588/212322595-86d57e07-d1b2-482f-8114-85fbfa4e83f3.png" width="250" height = "500" >
 </p>
  
 <p align="center">
-  <img align="left" src="https://user-images.githubusercontent.com/46748588/212322971-92b9c64f-6f43-424f-8c51-99a90dd38d5d.png" width="250" height = "500" >
+  <img align="center" src="https://user-images.githubusercontent.com/46748588/212322971-92b9c64f-6f43-424f-8c51-99a90dd38d5d.png" width="250" height = "500" >
  </p>
 <p align="center">
   <img align="center" src="https://user-images.githubusercontent.com/46748588/212323013-410fc9d3-258b-4d08-8424-a0ca78c5370d.png" width="250" height = "500" >
