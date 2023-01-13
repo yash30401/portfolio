@@ -31,9 +31,9 @@ Sports Tournament is a mobile application that allows users to pay a fee to play
  </p> 
  
  <p align="center">
-  <img align="left" src="https://user-images.githubusercontent.com/46748588/212323274-04c83ad7-9ea6-4de7-a55c-4b648dff4049.png" width="250" height = "500" >
+  <img align="center" src="https://user-images.githubusercontent.com/46748588/212323274-04c83ad7-9ea6-4de7-a55c-4b648dff4049.png" width="250" height = "500" >
  </p> 
- <p></p>
+
 
 
 # Noter
