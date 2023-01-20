@@ -7,7 +7,7 @@
 
 Sports Tournament is a mobile application that allows users to pay a fee to play matches. It was developed using the Android SDK, Kotlin, XML, and MVVM design pattern. The app also integrates Firebase Analytics, Firebase Storage, Firebase Realtime Database, and Payment Integration for added functionality.
 
-<a href='https://github.com/yash30401/BGMITournamentAdmin'><img src='https://user-images.githubusercontent.com/46748588/212324401-5ddbd955-8059-440a-b202-7ee87c249624.png' height='40px'/></a>
+<a href='https://github.com/yash30401/BGMITournamentUserApp'><img src='https://user-images.githubusercontent.com/46748588/212324401-5ddbd955-8059-440a-b202-7ee87c249624.png' height='40px'/></a>
 
 ### Technolgies : Android SDK , Kotlin, Xml, MVVM, Firebase Analytics, Firebase Storage, Firebase Realtime Database, Payment Integration.
 
