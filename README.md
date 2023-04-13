@@ -23,18 +23,18 @@
 
 ### Technolgies : Android SDK , Kotlin, MVVM, DataStore API, Kotlin Flows, Data Binding, Motion Layout, Local and Remote Databasde and Retrofit etc.
 <p align="center">
- <img align="center" src="https://user-images.githubusercontent.com/46748588/231805833-70002771-b04d-4d6a-801f-3178d8050642.png" width="250" height = "500" >
+ <img align="left" src="https://user-images.githubusercontent.com/46748588/231805833-70002771-b04d-4d6a-801f-3178d8050642.png" width="250" height = "500" >
 </p>
  
 <p align="center">
   <img align="left" src="https://user-images.githubusercontent.com/46748588/231805949-eecc0bda-d5ff-4fb5-bef9-549a416b6bda.png" width="250" height = "500" >
  </p>
 <p align="center">
-  <img align="left" src="https://user-images.githubusercontent.com/46748588/231806045-02c8e1bb-c2e9-4210-8233-692e3201b9df.png" width="250" height = "500" >
+  <img align="center" src="https://user-images.githubusercontent.com/46748588/231806045-02c8e1bb-c2e9-4210-8233-692e3201b9df.png" width="250" height = "500" >
  </p> 
  
  <p align="center">
-  <img align="center" src="https://user-images.githubusercontent.com/46748588/231806211-a5bf48e2-979e-4328-a9c7-5e9936d45444.png" width="250" height = "500" >
+  <img align="left" src="https://user-images.githubusercontent.com/46748588/231806211-a5bf48e2-979e-4328-a9c7-5e9936d45444.png" width="250" height = "500" >
  </p> 
  
   <p align="center">
@@ -42,7 +42,7 @@
  </p>
  
   <p align="center">
-  <img align="left" src="https://user-images.githubusercontent.com/46748588/231806405-1ac3dc94-b3c2-43a0-a5e9-83b44bb31a0c.png" width="250" height = "500" >
+  <img align="center" src="https://user-images.githubusercontent.com/46748588/231806405-1ac3dc94-b3c2-43a0-a5e9-83b44bb31a0c.png" width="250" height = "500" >
  </p> 
 
 # Calorie Crush
