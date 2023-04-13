@@ -21,7 +21,7 @@
 
 <a href='https://play.google.com/store/apps/details?id=com.recipes.meals'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
 
-### Technolgies : Android SDK , Kotlin, MVVM, DataStore API, Kotlin Flows, Data Binding, Motion Layout, Local and Remote Databasde and Retrofit etc.
+### Technolgies : Android SDK , Kotlin, MVVM, DataStore API, Kotlin Flows, Data Binding, Motion Layout, Local and Remote Database and Retrofit etc.
 <p align="center">
  <img align="left" src="https://user-images.githubusercontent.com/46748588/231805833-70002771-b04d-4d6a-801f-3178d8050642.png" width="250" height = "500" >
 </p>
