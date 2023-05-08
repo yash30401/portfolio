@@ -13,11 +13,9 @@
 
 # CookBook
 
-🍴🍲👨‍🍳 CookBook - Your Ultimate Recipe Guide 📚👩‍🍳🍳
-👉 Discover thousands of mouthwatering recipes from around the world with CookBook - your go-to app for cooking inspiration! 🌎🌍🌏
-🔍 Need to find a recipe quickly? No problem! Use our powerful search function to find any recipe you desire! 🔍
-❤️ Save your favorite recipes to your personal cookbook and access them anytime, anywhere! ❤️
-📝 Get detailed recipe instructions including an overview, list of ingredients, and step-by-step instructions for every dish! 📝
+Our cookbook app is built using the latest technologies like MVVM architecture, Kotlin Flows, Data Binding, and Motion Layout to provide an intuitive and seamless user experience. We've implemented the ROOM Databse to efficiently cache the Recipes, making the app lightning-fast even in offline mode. 🔍 Plus, our app allows you to filter out recipes on the basis of different meals and diets using the Datastore API.
+
+👨‍🍳 We've leveraged best practices like local and remote data sources to ensure that you have access to the latest recipes. 
 
 <a href='https://play.google.com/store/apps/details?id=com.recipes.meals'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
 
