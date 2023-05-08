@@ -13,7 +13,7 @@
 
 # CookBook
 
-Our cookbook app is built using the latest technologies like MVVM architecture, Kotlin Flows, Data Binding, and Motion Layout to provide an intuitive and seamless user experience. We've implemented the ROOM Databse to efficiently cache the Recipes, making the app lightning-fast even in offline mode. 🔍 Plus, our app allows you to filter out recipes on the basis of different meals and diets using the Datastore API.
+Our cookbook app is built using the latest technologies like MVVM architecture, Kotlin Flows, Data Binding, and Motion Layout to provide an intuitive and seamless user experience. We've implemented the ROOM Database to efficiently cache the Recipes, making the app lightning-fast even in offline mode. 🔍 Plus, our app allows you to filter out recipes on the basis of different meals and diets using the Datastore API.
 
 👨‍🍳 We've leveraged best practices like local and remote data sources to ensure that you have access to the latest recipes. 
 
