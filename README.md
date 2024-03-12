@@ -36,7 +36,7 @@ Additionally, the application integrates <b>Razorpay as the payment gateway</b>,
 
 ### Technologies: Android SDK, Kotlin, MVVM, Firebase Firestore, Kotlin Flows, Firebase Storage, Firebase Push Notification, Node.js, WebRtc, Google Sign in, Facebook Login, PhoneNumber Authentication, Razorpay Payment Gateway, Map API.
 <p align="center">
- <img align="left" src="https://github.com/yash30401/portfolio/assets/46748588/80e4ccc8-705f-4faa-8c9a-05277868c420
+ <img align="left" src="![ss1](https://github.com/yash30401/portfolio/assets/46748588/64f93ed3-5bfc-4045-80b8-e4fb34a6712b)
 " width="250" height = "500" >
 </p>
  
