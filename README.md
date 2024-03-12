@@ -35,21 +35,46 @@ I have created a blog post on how you can implement the video calling feature in
 Additionally, the application integrates <b>Razorpay as the payment gateway</b>, allowing users to book appointments securely. Firebase Firestore is utilized for efficient data storage, and push notifications are implemented to enhance user engagement. The app further provides users with the capability to discover healthcare professionals in their area and conveniently book appointments based on their preferences. 🔍👩‍⚕️👨‍⚕️
 
 ### Technologies: Android SDK, Kotlin, MVVM, Firebase Firestore, Kotlin Flows, Firebase Storage, Firebase Push Notification, Node.js, WebRtc, Google Sign in, Facebook Login, PhoneNumber Authentication, Razorpay Payment Gateway, Map API.
+
+
 <p align="center">
- <img align="left" src="![ss1](https://github.com/yash30401/portfolio/ss1.jpg)" width="250" height = "500" >
+ <img align="left" src="https://github.com/yash30401/portfolio/assets/46748588/97e1b394-c52e-4fca-a8d4-664e3a529268" width="250" height = "500" >
 </p>
 
-
 <p align="center">
-  <img align="left" src="https://github.com/yash30401/portfolio/assets/46748588/a95fa31a-5eca-4bc3-8db6-2c87ec3abf2d
-" width="250" height = "500" >
+  <img align="left" src="https://github.com/yash30401/portfolio/assets/46748588/bda4839f-bb02-4216-88ad-062334a1110f" width="250" height = "500" >
  </p>
 <p align="center">
-  <img align="center" src="https://github.com/yash30401/portfolio/assets/46748588/b0cdb6bf-6fec-4826-890b-c498c9cc8446
-" width="250" height = "500" >
+  <img align="center" src="https://github.com/yash30401/portfolio/assets/46748588/ea15699c-1876-45c7-8523-bd26b61d83cd" width="250" height = "500" >
+ </p> 
+
+  <p align="center">
+  <img align="left" src="https://github.com/yash30401/portfolio/assets/46748588/eb9fb5a3-0d4e-4f2d-8b81-ce01ffeb4c35" width="250" height = "500" >
  </p> 
  
+  <p align="center">
+  <img align="left" src="https://github.com/yash30401/portfolio/assets/46748588/b20aec5f-402c-4e24-bfa7-aaca85465455" width="250" height = "500" >
+ </p>
+ 
+  <p align="center">
+  <img align="center" src="https://github.com/yash30401/portfolio/assets/46748588/2d713130-908f-45f4-9265-03f4553ceb3c" width="250" height = "500" >
+ </p> 
 
+  <p align="center">
+  <img align="left" src="https://github.com/yash30401/portfolio/assets/46748588/85999384-953c-435a-b307-fb9a9b72e1f2" width="250" height = "500" >
+ </p> 
+ 
+  <p align="center">
+  <img align="left" src="https://github.com/yash30401/portfolio/assets/46748588/09c46168-c8d5-46b8-a5f0-3077d816dd80" width="250" height = "500" >
+ </p>
+
+  <p align="center">
+  <img align="center" src="https://github.com/yash30401/portfolio/assets/46748588/2023d3cf-5518-41d6-afe7-f9c192544730" width="250" height = "500" >
+  </p>
+
+  <p align="center">
+ <img src="https://github.com/yash30401/portfolio/assets/46748588/93a2b992-d875-4ed0-b008-0c0b7dc5ec91" width="250" height = "500" >
+</p>
 
 # CookBook
 
