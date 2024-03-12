@@ -11,6 +11,46 @@ Hello there! I'm an Android app developer, and I'm excited to showcase my journe
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yash30401&theme=light&hide_border=false)<br/>
 
+# HealthCare
+
+I've developed a comprehensive healthcare application catering to both users and doctors, featuring two distinct apps tailored to their respective needs. 🌐
+
+<b> For the Users app:</b>
+
+1. The first page presents users with two primary options: <b>'Consult'</b> and <b>'Diagnose.</b>'
+2. Users can seamlessly book appointments for either <b> video calls or clinic visits </b>, selecting from available slots. 📅
+3. A convenient <b> chat feature</b> allows users to communicate with their chosen doctor. 💬
+4. Users can choose between <b> video calling and clinic visit appointments</b>, ensuring flexibility in healthcare access. 🩺
+
+<b> For the Doctor app:</b>
+
+1. Doctors can efficiently manage their <b>upcoming appointments</b>, ensuring a streamlined workflow. 🗓️
+2. The app incorporates <b>video calling functionality</b>, facilitating virtual consultations with patients. 📹
+3. Doctors can easily <b>add and manage appointment slots</b> based on their availability. 🕰️
+   
+Both apps offer <b>multiple login options, including Facebook, Google, and phone number authentication.</b> The implementation of video calling functionality posed a challenge, but it was successfully addressed using a <b>Node.js signaling server and WebRTC</b>, without relying on external SDKs. This enables seamless video communication between doctors and users during scheduled appointments. 🚀
+
+I have created a blog post on how you can implement the video calling feature in your app:- https://medium.com/@yash30401/building-a-video-calling-app-with-webrtc-in-android-and-websocket-server-in-node-js-985cf435598d
+
+Additionally, the application integrates <b>Razorpay as the payment gateway</b>, allowing users to book appointments securely. Firebase Firestore is utilized for efficient data storage, and push notifications are implemented to enhance user engagement. The app further provides users with the capability to discover healthcare professionals in their area and conveniently book appointments based on their preferences. 🔍👩‍⚕️👨‍⚕️
+
+### Technologies: Android SDK, Kotlin, MVVM, Firebase Firestore, Kotlin Flows, Firebase Storage, Firebase Push Notification, Node.js, WebRtc, Google Sign in, Facebook Login, PhoneNumber Authentication, Razorpay Payment Gateway, Map API.
+<p align="center">
+ <img align="left" src="https://github.com/yash30401/portfolio/assets/46748588/80e4ccc8-705f-4faa-8c9a-05277868c420
+" width="250" height = "500" >
+</p>
+ 
+<p align="center">
+  <img align="left" src="https://github.com/yash30401/portfolio/assets/46748588/a95fa31a-5eca-4bc3-8db6-2c87ec3abf2d
+" width="250" height = "500" >
+ </p>
+<p align="center">
+  <img align="center" src="https://github.com/yash30401/portfolio/assets/46748588/b0cdb6bf-6fec-4826-890b-c498c9cc8446
+" width="250" height = "500" >
+ </p> 
+ 
+
+
 # CookBook
 
 Our cookbook app is built using the latest technologies like MVVM architecture, Kotlin Flows, Data Binding, and Motion Layout to provide an intuitive and seamless user experience. We've implemented the ROOM Database to efficiently cache the Recipes, making the app lightning-fast even in offline mode. 🔍 Plus, our app allows you to filter out recipes on the basis of different meals and diets using the Datastore API.
