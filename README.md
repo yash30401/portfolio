@@ -13,7 +13,7 @@ Hello there! I'm an Android app developer, and I'm excited to showcase my journe
 
 # HealthCare
 
-I've developed a comprehensive healthcare application catering to both users and doctors, featuring two distinct apps tailored to their respective needs. 🌐
+I've developed a healthcare application catering to both users and doctors, featuring two distinct apps tailored to their respective needs. 🌐
 
 <b> For the Users app:</b>
 
